@@ -1,0 +1,25 @@
+h1
+{
+color: rgba(247, 247, 4, 0.749);
+background-color: rgb(26, 24, 28);
+}
+h2{
+    color: aqua;
+    size: 0cqb;
+    background-color: rgb(26, 26, 24);
+    background-size:no-repeat;
+}
+p {
+    color:red;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+}
+body{
+
+background-image: url("https://static.vecteezy.com/system/resources/previews/006/457/198/non_2x/countdown-website-flat-template-circle-clock-timer-background-countdown-timer-clock-counter-vector.jpg"); background-size: cover;
+}
+p{background-color: black;
+    color: rgb(244, 99, 3);
+    font-size: 170px;
+}
